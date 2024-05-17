@@ -1,0 +1,717 @@
+#EXTM3U
+# ************************  19/OCT/2023  ESTA LISTA ES DE USO PARTICULAR  ****************************
+# ***** https://github.com/jsosao/m3u/blob/main/mylist.m3u8
+# ***** https://gist.github.com/verga123/4ce004bd8d70840d9ba388278684c21c (probando 29-11-23)
+
+
+# --- GRUPO CHRIS ------------------------------------------------ 
+#EXTINF:-1 tvg-id="1" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="2" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="3" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-chv.jpg", CHV HD
+http://45.71.252.16:8000/play/a0ib/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-chv.jpg", CHV
+http://45.71.252.16:8000/play/a09y/index.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-tvn.jpg", TVN HD
+http://181.78.22.251:8090/play/a02y/index.m3u8
+
+# ***** h tt ps://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="5" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png", TV+
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="6" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-la-red.jpg", LA RED TV
+http://186.103.142.222:8000/play/a07u/index.m3u8
+
+#EXTINF:-1 group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-la-red.jpg", La Red HD
+http://181.78.22.251:8090/play/a02l/index.m3u8
+
+#EXTINF:-1 tvg-id="7" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="8" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cnn-chile.jpg", CNN Chile
+http://181.78.22.251:8090/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="9" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cnn-espanol.jpg", CNN Español
+http://45.71.252.16:8000/play/a09u/index.m3u8
+
+#EXTINF:-1 tvg-id="10" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cnn.jpg", CNN
+http://213.254.12.7/cnn/index.m3u8
+
+#EXTINF:-1 tvg-id="11" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-zona-latina.jpg", Zona Latina
+http://191.97.49.195:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="12" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-via-x.jpg", ViaX
+http://8.242.126.186:7777/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="13" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png", Canal 13 C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="14" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png", Canal 13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="15" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Prime.png", Canal 13 Prime
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="16" group-title="⭐️ Chris"tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-mega-plus.jpg", MEGA PLUS
+http://186.103.142.222:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title="⭐️ Chris" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png", CHV Noticias
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-starky-hutch1.jpg", Starsky & Hutch
+https://i.mjh.nz/PlutoTV/6489c45766e48500083cceb6-alt.m3u8
+
+#EXTINF:-1 group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/56_TVU.png", TVU
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png", Marga Marga TV
+https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-canal-D-Drama.jpg", Canal D Drama
+http://181.78.208.254:8010/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-canal-D-Drama.jpg", Canal D Drama
+http://186.103.142.222:8000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="http://chileiptv.cl/img/logos/file_1486614829.png", TVN
+http://45.71.252.16:8000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="", Señal 21 CL
+#EXTVLCOPT--http-reconnect=true
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
+
+# ------------- Películas / Series ----------------------------------
+#EXTINF:-1 tvg-id="1" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cinecanal.jpg", Cinecanal HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cinecanal.jpg", Cinecanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="3" group-title="Películas / Series", FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="3" group-title="Películas / Series", FX HD v2
+http://181.78.22.251:8090/play/a00y/index.m3u8
+
+
+#EXTINF:-1 tvg-id="4" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-space.jpg", Space HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="5" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-axn.jpg", AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="6" group-title="Películas / Series", Cinemax
+http://170.82.37.21:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="6" group-title="Películas / Series", TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="6" group-title="Películas / Series", TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", Sony Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+
+#EXTINF:-1 group-title="Películas / Series", STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+
+#EXTINF:-1 group-title="Películas / Series", TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", UNIVERSAL PREMIERE HD
+http://45.166.92.22:58001/play/a05n/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", Universal cinema HD
+http://45.166.92.22:58001/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", GOLDEN
+http://181.78.64.71:16123/play/ch46
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", GOLDEN EDGE
+http://181.78.64.71:16123/play/ch47
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", SUN CHANNEL
+http://181.78.64.71:16123/play/ch48
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", CINE PREMIUM
+http://181.78.64.71:16123/play/ch49
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", CINE FAMILIAR
+http://181.78.64.71:16123/play/ch52
+
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", TNT
+http://181.78.64.71:16123/play/a08i
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series", TCM
+http://181.78.64.71:16123/play/a08q
+
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-hbo1b.jpg", HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-hbo2.jpg", HBO 2
+http://45.166.92.22:58001/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-hbo-plus.jpg", HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-hbo-xtreme.jpg", HBO XTREME HD
+http://45.166.92.22:58001/play/a03w/index.m3u8
+
+
+
+
+
+#EX TINF:-1 group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-hbo-family.jpg", HBO Family
+
+
+#EX TINF:-1 group-title="Películas / Series" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV
+
+
+
+
+# ------------- FIN Películas / Series  ----------------------------------
+
+# ------------- RADIOS ---------------------------------- 
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/1270_La_Clave.png", Radio La Clave
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png", Radio Infinita
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Radio Pauta TV
+https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png", Radio ADN
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png", Radio Cooperativa
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png", Carolina TV
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png", Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/427_Radio_Duna.png", Radio Duna
+https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Radios" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+
+# ------------- FIN RADIOS ---------------------------------- 
+
+
+
+# ------------- PPV Movistar  ---------------------------------- 
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 00
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 01
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 02
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 03
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 04
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 05
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 06
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 07
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
+
+#EXTINF:-1 group-title="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU", Cinema 08
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
+# ------------- FIN PPV Movistar  ----------------------------------
+
+# ---- ✅ ✪ ⭐️ 
+# ------------- 24/7  ----------------------------------
+# ------------- FIN 24/7  ----------------------------------
+
+# ------------- Investigación  ----------------------------------
+#EXTINF:-1 group-title="Investigación" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png", Pluto TV Investiga
+https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+
+#EXTINF:-1 group-title="Investigación" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png", Cazador de Homicidas
+https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
+
+#EXTINF:-1 group-title="Investigación" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png", Los archivos del FBI
+https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
+
+#EXTINF:-1 group-title="Investigación" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png", Archivos Forenses
+https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
+
+#EXTINF:-1 group-title="Investigación" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png", The New Detectives
+https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
+
+#EXTINF:-1 group-title="Investigación" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png", Misterios sin Resolver
+https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
+# ------------- FIN Investigación  ----------------------------------
+
+# ----- Pluto TV--------------
+#EXTINF:-1 tvg-id="701" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG.png", Pluto TV Dramas Coreanos
+https://r.mjh.nz/PlutoTV/6185a9a88b2ce30007de5128-alt.m3u8
+
+#EXTINF:-1 tvg-id="702" channel-id="pluto-639751f81a36b400072b8f5a" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" tvg-chno="184" group-title="Pluto TV", Vive Kanal D Drama
+https://r.mjh.nz/PlutoTV/639751f81a36b400072b8f5a-alt.m3u8
+
+#EXTINF:-1 tvg-id="703" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png", Pluto TV Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+
+#EXTINF:-1 tvg-id="704" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png", Pluto TV Series Retro
+https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+
+#EXTINF:-1 tvg-id="705" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png", MacGyver
+https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+
+#EXTINF:-1 tvg-id="706" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", Pluto TV Retro Cartoons
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+
+#EXTINF:-1 tvg-id="707" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png", Los Tres Chiflados
+https://r.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+
+#EXTINF:-1 tvg-id="708" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png", COPS
+https://r.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
+
+#EXTINF:-1 tvg-id="709" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png", Historias de Ultratumba
+https://r.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+
+#EXTINF:-1 tvg-id="709" group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png", Archivos Extraterrestres
+https://r.mjh.nz/PlutoTV/645d1abbe1979c0008779d5a-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png", Pluto TV Fashionstream
+https://r.mjh.nz/PlutoTV/5ee8d84bfb286e0007285aad-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png", Captain Tsubasa
+https://r.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png", Nickelodeon iCarly
+https://r.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png", PAW Patrol Patrulla de Cachorros
+https://r.mjh.nz/PlutoTV/6495c6ad115d060008bf6b52-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png", Babar
+https://r.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png", Bob Esponja Pantalones Cuadrados
+https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png", Los Padrinos Mágicos
+https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png", Las Tortugas Ninja
+https://r.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png", Conciertos por Stingray
+https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png", Karaoke por Stingray
+https://r.mjh.nz/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png", Pluto TV Cine Estelar
+https://i.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png", Pluto TV Cine Acción
+https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png", Estrellas de Acción
+https://i.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png", Pluto TV Adrenalina Freezone
+https://i.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png", Pluto TV Cine Comedia
+https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png", Pluto TV Cine Drama
+https://i.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png", Pluto TV Cine Romance
+https://i.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png", Pluto TV Cine Suspenso
+https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png", Pluto TV Cine Crimen
+https://i.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png", Pluto TV Cine Terror
+https://i.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png", Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png", Runtime
+https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png", Pluto TV Filmstream
+https://i.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png", Pluto TV  Nuestro Cine
+https://i.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png", Pluto TV Cine Clásico
+https://i.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
+
+#EXTINF:-1 group-title="Pluto TV" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png", Pluto TV Cine Familia
+https://i.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cine Comedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cine Terror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Viajes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cine Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+# ----- FIN Pluto TV -----------------
+
+# ----- Deportes ------------------------------------
+
+#EXTINF:-1 tvg-id="1" group-title="⚽ Deportes", ESPN EXTRA HD
+http://191.97.58.41:8001/play/a00s
+
+#EXTINF:-1 tvg-id="2" group-title="⚽ Deportes", ESPN HD
+http://191.97.58.41:8001/play/a004
+
+#EXTINF:-1 tvg-id="3" group-title="⚽ Deportes", ESPN HD bueno
+http://191.97.58.41:8001/play/a00h
+
+#EXTINF:-1 tvg-id="4" group-title="⚽ Deportes", ESPN 2
+http://181.78.105.146:6060/play/a037
+
+#EXTINF:-1 tvg-id="5" group-title="⚽ Deportes", ESPN 3 HD
+http://191.97.58.41:8001/play/a00j
+
+#EXTINF:-1 tvg-id="6" group-title="⚽ Deportes", ESPN 4 HD
+http://191.97.58.41:8001/play/a00p
+
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 7
+http://181.78.64.71:16123/play/ch20
+
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 6
+http://181.78.64.71:16123/play/ch21
+
+
+
+
+#EXTINF:-1 group-title="⚽ Deportes", ESPN +
+http://170.82.37.21:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 2 HD
+http://170.82.37.21:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 3 HD
+http://170.82.37.21:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 4 HD
+http://170.82.37.21:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 5 HD
+http://170.82.37.21:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes", ESPN 6 HD
+http://170.82.37.21:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="⚽ Deportes", ESPN HD
+http://170.82.37.21:8000/play/a00y/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="⚽ Deportes", Fox Sports 3
+http://170.82.37.21:8000/play/a014/index.m3u8
+
+
+#EXTINF:-1 tvg-id="6" group-title="⚽ Deportes", ElCanaldelFutbol HD
+http://181.78.22.251:8090/play/a01n/index.m3u8
+
+
+#EXTINF:-1 tvg-id="7" group-title="⚽ Deportes", TNT SPORTS HD
+http://181.78.22.251:8090/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="8" group-title="⚽ Deportes", TNT SPORTS HD v2
+http://181.78.22.251:8090/play/a02g/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="⚽ Deportes", TNT SPORTS HD MALO
+http://138.219.58.234:8112/play/233
+
+#EXTINF:-1 tvg-id="" group-title="⚽ Deportes", TNT SPORTS 2 MALO
+http://45.71.252.16:8000/play/a0a0/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽ Deportes", TNT SPORTS 3 MALO
+http://45.71.252.16:8000/play/a0e0/index.m3u8
+
+
+#EXTINF:-1 group-title="⚽ Deportes", ES: LIGA DE CAMPEONES FHD
+http://724387382856246282.ofip231209.xyz:80/play/vi1125895/mKgA93y3eQC/246282.ts
+
+
+#EXTINF:-1 group-title="⚽ Deportes" tvg-logo="", Canal del Caballo
+http://138.219.58.234:8112/play/230
+
+#EXTINF:-1 group-title="⚽ Deportes" tvg-logo="", Golf Channel HD
+http://45.5.119.155:8090/play/a0h1/index.m3u8
+
+
+#EXTINF:-1 group-title="⚽ Deportes", NBA - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/258288
+#EXTINF:-1 group-title="⚽ Deportes", NBA - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/258289
+#EXTINF:-1 group-title="⚽ Deportes", NBA - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/258290
+#EXTINF:-1 group-title="⚽ Deportes", NBA - 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/258291
+
+#EXTINF:-1 group-title="⚽ Deportes", SPORTVᴴᴰ
+http://209.222.97.92:16525
+#EXTINF:-1 group-title="⚽ Deportes", Band Sportsᴴᴰ
+http://209.222.97.92:16484
+#EXTINF:-1 group-title="⚽ Deportes", Combateᴴᴰ
+http://209.222.97.92:16493/Combate
+
+
+#EXTINF:-1 group-title="⚽ Deportes", Fox Sports 1 HD
+http://181.78.22.251:8090/play/a01y/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Deportes", FOX Sports 2 HD
+http://181.78.22.251:8090/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Deportes", Fox Sports 3 HD
+
+http://181.78.22.251:8090/play/a00i/index.m3u8
+
+#EXTINF:-1 group-title="⚽ Deportes" tvg-logo="", Hipódromo Chile
+http://138.219.58.234:8112/play/236
+
+# ----- FIN Deportes ------------------------------------
+
+
+
+# ----- Música --------------
+#EXTINF:-1 group-title="Música" tvg-logo="", KIZZ
+http://138.219.58.234:8112/play/131
+
+#EXTINF:-1 group-title="Música" tvg-logo="", MTV
+http://38.43.150.120:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="", VH1 Classics
+https://i.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="", MTV
+http://pulpo.ddns.net:25461/demo/demo45/232
+
+#EXTINF:-1 group-title="Música" tvg-logo="", Retro Music TV
+http://78.130.250.2:8023/play/a02r/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="", Stingray Concerts HD
+http://181.78.22.251:8090/play/a01h/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="", Concert Channel
+http://181.78.105.146:8800/play/a06t
+
+#EXTINF:-1 group-title="Música" tvg-logo="", MTV
+http://190.90.154.73:8080/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="", MTV 00s
+http://190.90.154.73:8080/play/a020/index.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="", MTV LIVE HD
+http://190.90.154.73:8080/play/a02r/index.m3u8
+
+#EXTINF:-1 group-title="Música" tvg-logo="", Claro Musica
+http://45.5.119.155:8090/play/a0jt/index.m3u8
+#EXTINF:-1 group-title="Música" tvg-logo="", Concert Channel
+http://45.5.119.155:8090/play/a02r/index.m3u8
+
+# ----- FIN Música --------------
+
+# ------------- Infantiles  ----------------------------------
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cartoonito.jpg", Cartoonito
+http://45.5.151.151:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-disney.jpg", Disney HD
+http://191.97.58.41:8001/play/a00z
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-kids.jpg", Discovery Kids
+http://45.5.151.151:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles", Cartoon Network HD
+http://38.56.118.88:4000/play/a025/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles", ETC HD
+http://138.219.58.234:8112/play/007
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png", AnimeStation
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Infantiles", DISNEY JUNIOR
+http://8.243.125.233/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Infantiles", NICK
+http://8.243.125.233/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Infantiles", NICK JR
+http://8.243.125.233/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="", Adult Swim
+http://38.56.118.88:4000/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Kenan_and_kel_logo.png", 24/7 Kenan & Kel 
+https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=e9a804d8-7af1-11eb-b217-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg", Pluto Series Retro
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/featuredImage.jpg", E-SPORTS Network
+https://stitcher.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/featuredImage.jpg", Historias de Ultratumba 
+https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",ANIMOTION HD
+http://138.219.58.234:8112/play/008
+
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",Cartoon Network
+http://38.43.150.120:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",DISCOVERY KIDS
+http://38.43.150.120:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",Disney Channel
+http://38.43.150.120:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",Disney HD
+http://38.43.150.120:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",Disney Junior
+http://38.43.150.120:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",Nick Jr
+http://38.43.150.120:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="",Nickelodeon
+http://38.43.150.120:8000/play/a00q/index.m3u8
+
+# ------------- FIN Infantiles  ----------------------------------
+
+# ------------- Discovery ---------------------------
+# ------------- https://vk.com/club_pf
+
+ 
+#EXTINF:-1 tvg-id="1" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-home-and-health.jpg", Discovery H&H
+http://45.166.92.22:58001/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-channel.jpg", Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-channel.jpg", Discovery Channel
+http://45.167.3.81:45000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-channel.jpg", Discovery Channel HD 2
+http://45.167.3.81:45000/play/a05x/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-investigation-discovery.jpg", Discovery ID HD
+http://45.166.92.22:58001/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-investigation-discovery.jpg", Discovery ID HD 2
+http://45.167.3.81:45000/play/a061/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-history-channel.jpg", HISTORY HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-history-channel.jpg", HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-turbo.jpg", Discovery Turbo
+http://45.166.92.22:58001/play/a026/index.m3u8
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-turbo.jpg", Discovery Turbo 2
+http://181.78.105.146:8800/play/a06n
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-turbo.jpg", Discovery Turbo 3
+http://181.78.105.146:6060/play/a03z
+
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-discovery-turbo.jpg", Discovery Turbo 4
+http://45.167.3.81:45000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", Discovery World HD 2
+http://191.97.49.195:8000/play/a04e/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", Discovery Theather HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", Discovery Theather HD 2
+http://181.78.22.251:8090/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", AE Mundo
+http://191.97.49.195:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", A&E
+http://170.82.37.21:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", National Geographic
+http://45.166.92.22:58001/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", Film & arts HD
+http://45.166.92.22:58001/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", El Gourmet
+http://38.56.118.88:4000/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Discovery" tvg-logo="", Food Network HD
+http://191.97.49.195:8000/play/a02n/index.m3u8
+
+
+
+
+# ------------- FIN Discovery ---------------------------
+
+
+# ------------- OTROS ----------------------------------
+
+
+
+# *** ----------------  https://github.com/ciefp/ciefpsettings-enigma2/blob/master/ciefp-E2-1sat-19E/userbouquet.pluto_tv_es.tv   --------------------------------------------------
+
+
+
+
+
+### --------------------------------------------
+
+
+
+
+# *** ----------------------- 
+
+
+
+#EXTINF:-1,E! Entertairment HD
+http://131.161.53.2:8000/play/a030/index.m3u8
