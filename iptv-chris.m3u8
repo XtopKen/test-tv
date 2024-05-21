@@ -61,6 +61,12 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="16" group-title="⭐️ Chris"tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-mega-plus.jpg", MEGA PLUS
 http://186.103.142.222:8000/play/a03z/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 HD
+http://45.235.37.254:8370/play/a02c
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris", CHV HD
+http://45.235.37.254:8370/play/a00l
+
 #EXTINF:-1 group-title="⭐️ Chris" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png", CHV Noticias
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -87,8 +93,6 @@ http://45.71.252.16:8000/play/a09w/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="", Canal 13 HD
-http://45.235.37.254:8370/play/a02c
 
 # ------------- Películas / Series ----------------------------------
 #EXTINF:-1 tvg-id="1" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cinecanal.jpg", Cinecanal HD
@@ -462,17 +466,9 @@ http://181.78.22.251:8090/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="8" group-title="⚽ Deportes", TNT SPORTS HD v2
 http://181.78.22.251:8090/play/a02g/index.m3u8
 
+#EXTINF:-1 tvg-id="8" group-title="⚽ Deportes", TNT SPORTS HD v3
+http://45.235.37.254:8370/play/a00a
 
-
-
-#EXTINF:-1 tvg-id="" group-title="⚽ Deportes", TNT SPORTS HD MALO
-http://138.219.58.234:8112/play/233
-
-#EXTINF:-1 tvg-id="" group-title="⚽ Deportes", TNT SPORTS 2 MALO
-http://45.71.252.16:8000/play/a0a0/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="⚽ Deportes", TNT SPORTS 3 MALO
-http://45.71.252.16:8000/play/a0e0/index.m3u8
 
 
 #EXTINF:-1 group-title="⚽ Deportes", ES: LIGA DE CAMPEONES FHD
