@@ -87,6 +87,9 @@ http://45.71.252.16:8000/play/a09w/index.m3u8
 #EXTVLCOPT--http-reconnect=true
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="", Canal 13 HD
+http://45.235.37.254:8370/play/a02c
+
 # ------------- Películas / Series ----------------------------------
 #EXTINF:-1 tvg-id="1" group-title="Películas / Series" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cinecanal.jpg", Cinecanal HD
 http://45.166.92.22:58001/play/a04b/index.m3u8
