@@ -17,8 +17,14 @@ http://45.71.252.16:8000/play/a0ib/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-chv.jpg", CHV
 http://45.71.252.16:8000/play/a09y/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-chv.jpg", CHV HD 2
+http://38.56.118.88:4000/play/a00n/index.m3u8
+
 #EXTINF:-1 tvg-id="4" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-tvn.jpg", TVN HD
 http://181.78.22.251:8090/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-tvn.jpg", TVN HD
+http://38.56.118.88:4000/play/a00m/index.m3u8
 
 # ***** h tt ps://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
 
@@ -39,6 +45,9 @@ http://181.78.22.251:8090/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="9" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cnn-espanol.jpg", CNN Español
 http://45.71.252.16:8000/play/a09u/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cnn-chile.jpg", CNN Chile HD
+http://38.56.118.88:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="10" group-title="⭐️ Chris" tvg-logo="https://cgstudio.cl/iptv/logos/iptv-chris-cnn.jpg", CNN
 http://213.254.12.7/cnn/index.m3u8
@@ -63,6 +72,12 @@ http://186.103.142.222:8000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 HD
 http://45.235.37.254:8370/play/a02c
+
+#EXTINF:-1 tvg-id="" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 HD 2
+http://38.56.118.88:4000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="⭐️ Chris" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", MEGA HD
+http://38.56.118.88:4000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="⭐️ Chris", CHV HD
 http://45.235.37.254:8370/play/a00l
@@ -468,6 +483,9 @@ http://181.78.22.251:8090/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="8" group-title="⚽ Deportes", TNT SPORTS HD v3
 http://45.235.37.254:8370/play/a00a
+
+#EXTINF:-1 tvg-id="8" group-title="⚽ Deportes", TNT SPORTS HD v4
+http://38.56.118.88:4000/play/a00a/index.m3u8
 
 
 
